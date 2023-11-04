@@ -1,0 +1,22 @@
+*.pyc
+*.pyo
+*.db
+*.swp
+*.swo
+*.swn
+*.swm
+*.swl
+__pycache__
+.DS_Store
+.coverage
+geckodriver.log
+.ipynb_checkpoints
+local_db.sqlite
+Pipfile
+Pipfile.lock
+.venv
+activate
+sandpit
+
+# PyCharm IDE
+.idea
